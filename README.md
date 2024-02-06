@@ -1,4 +1,4 @@
 # APPS_Plus
-StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback
+### StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback
 
-The APPS+ v1 is coming soon! (about three days)
+We released v1 version of the apps+ data, and we will further manually clean it later, which is expected to increase the average number of unit tests to 15!
