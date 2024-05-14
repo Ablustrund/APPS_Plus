@@ -24,13 +24,11 @@ Finally, we construct the APPS+ dataset, containing 7,413 instances (introductor
 ## Citation
 If you find this useful in your research, please consider citing
 ```
-@misc{dou2024stepcoder,
-      title={StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback}, 
-      author={Shihan Dou and Yan Liu and Haoxiang Jia and Limao Xiong and Enyu Zhou and Wei Shen and Junjie Shan and Caishuang Huang and Xiao Wang and Xiaoran Fan and Zhiheng Xi and Yuhao Zhou and Tao Ji and Rui Zheng and Qi Zhang and Xuanjing Huang and Tao Gui},
-      year={2024},
-      eprint={2402.01391},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE}
+@article{dou2024stepcoder,
+  title={StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback},
+  author={Dou, Shihan and Liu, Yan and Jia, Haoxiang and Xiong, Limao and Zhou, Enyu and Shan, Junjie and Huang, Caishuang and Shen, Wei and Fan, Xiaoran and Xi, Zhiheng and others},
+  journal={arXiv preprint arXiv:2402.01391},
+  year={2024}
 }
 ```
 
