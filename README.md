@@ -1,7 +1,9 @@
 # APPS_Plus
-This is the repository for [StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback](https://arxiv.org/pdf/2402.01391.pdf).
+This is the repository for [StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback](https://arxiv.org/pdf/2402.01391.pdf).
 ## Summary
 Based on APPS, we released the first version of the apps+ data, and we will further manually refine it, which is expected to increase the average number of unit tests to 15! 
+
+👉 The final version of our APPS+ dataset is available at here: https://drive.google.com/file/d/1wfrDRcvAn38qj5dDmQZwaoLIAmT4q7KQ/view?usp=sharing
 
 👉**APPS+ is refined from [APPS](https://github.com/hendrycks/apps) and contains programming problems from open-access sites, including Codewars, AtCoder, Kattis, and Codeforces.**
 
