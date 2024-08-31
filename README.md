@@ -1,11 +1,14 @@
 # APPS_Plus
 This is the repository for [StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback](https://arxiv.org/pdf/2402.01391.pdf).
 ## Summary
-Based on APPS, we released the first version of the apps+ data, and we will further manually refine it, which is expected to increase the average number of unit tests to 15! 
 
 👉 08/31/2024. We clean the function name of the canonical solution in each programming problem. The final version of our APPS+ dataset is available at here: https://drive.usercontent.google.com/download?id=1dTRJHXhMcPz4CPt73f2vju5KdLmqcP4F&export=download&authuser=0
 
 👉 The new version of our APPS+ dataset is available at here: https://drive.google.com/file/d/1wfrDRcvAn38qj5dDmQZwaoLIAmT4q7KQ/view?usp=sharing
+
+
+Based on APPS, we released the first version of the apps+ data, and we will further manually refine it, which is expected to increase the average number of unit tests to 15! 
+
 
 👉**APPS+ is refined from [APPS](https://github.com/hendrycks/apps) and contains programming problems from open-access sites, including Codewars, AtCoder, Kattis, and Codeforces.**
 
